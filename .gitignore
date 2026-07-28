@@ -1,0 +1,47 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+# Log files and coverage trees generated during running passes
+coverage/
+.vitest-result/
+*.log
+
+
+# Vite local builder caching layers (Crucial for Vite environments)
+.vite/
+.nuxt/
+
+# TypeScript incremental compilation state maps
+*.tsbuildinfo
+
+# Secret Cloud Keys and Environment Modules (CRITICAL SECURITY)
+.env
+.env.production
+.env.development
+.env.*.local
+
+# Main System & OS cache fallbacks
+Thumbs.db
