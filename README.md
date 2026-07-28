@@ -33,7 +33,7 @@ Ensure you have [Node.js](https://nodejs.org) (v18 or higher) installed on your 
 
 2. **Navigate into the project root directory:**
    ```bash
-   cd nexus-retail-store
+   cd Fitpulse
    ```
 
 3. **Install all required dependencies:**
